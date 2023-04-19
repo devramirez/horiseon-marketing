@@ -8,6 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* This is the navbar at the top */
 .top-bar {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,7 +29,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Added a hover feature for styling */
 .seo {
     color: #d9dcd6;
 }
@@ -47,7 +57,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Added a hover feature for styling over the "seo" */
 a:hover{
     color: darkgrey;
 }
@@ -55,6 +65,7 @@ p {
     font-size: 16px;
 }
 
+/* Main content of webpage begins */
 .main-photo {
     height: 800px;
     width: 100%;
@@ -80,6 +91,20 @@ p {
     margin-left: 20px;
 }
 
+.main-content-description {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.main-content-description img {
+    max-height: 200px;
+}
+
+/* Right bar portion of webpage begins */
 .right-bar-content {
     margin-right: 20px;
     padding: 20px;
@@ -96,63 +121,13 @@ p {
     color: #ffffff;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 .right-bar-headings img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-
-
+/* Footer section of the webpage */
 footer {
     padding: 30px;
     clear: both;
