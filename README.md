@@ -18,3 +18,9 @@ The following image shows the web application's appearance and functionality:
 Some resources I used to better understand this challenge were taken from [MDN docs on semantics.](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 Additional resources I used were from [web.dev on semantic structure.](https://web.dev/learn/html/semantic-html/)
+
+## GitHub Pages
+The link provided here is the URL of the deployed application. ![Horiseon Social Solutions](https://devramirez.github.io/horiseon-marketing/)
+
+## Repository 
+The link provided here is the URL of the GitHub repo. ![Horiseon Marketing](https://github.com/devramirez/horiseon-marketing.git)
