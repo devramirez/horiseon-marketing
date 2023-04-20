@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Body */
 body {
     background-color: #d9dcd6;
 }
@@ -25,7 +26,7 @@ h3 {
 h3:hover {
     color: darkgray;
 }
-/* This is the navbar at the top */
+/* This is the navbar */
 .top-bar {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,6 +38,7 @@ h3:hover {
     display: inline-block;
     font-size: 48px;
 }
+
 /* Added a hover feature for styling */
 .seo {
     color: #d9dcd6;
@@ -65,6 +67,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
 /* Added a hover feature for styling over the "seo" */
 a:hover{
     color: darkgrey;
