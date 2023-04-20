@@ -20,7 +20,7 @@ Some resources I used to better understand this challenge were taken from [MDN d
 Additional resources I used were from [web.dev on semantic structure.](https://web.dev/learn/html/semantic-html/)
 
 ## GitHub Pages
-The link provided here is the URL of the deployed application. ![Horiseon Social Solutions](https://devramirez.github.io/horiseon-marketing/)
+The link provided here is the URL of the deployed application. [Horiseon Social Solutions](https://devramirez.github.io/horiseon-marketing/)
 
 ## Repository 
-The link provided here is the URL of the GitHub repo. ![Horiseon Marketing](https://github.com/devramirez/horiseon-marketing.git)
+The link provided here is the URL of the GitHub repo. [Horiseon Marketing](https://github.com/devramirez/horiseon-marketing.git)
